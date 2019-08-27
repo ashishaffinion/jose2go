@@ -8,7 +8,7 @@ on standard library.
 Supports full suite of signing, encryption and compression algorithms defined by [JSON Web Algorithms](https://tools.ietf.org/html/draft-ietf-jose-json-web-algorithms-31) as of July 4, 2014 version.
 
 Extensively unit tested and cross tested (100+ tests) for compatibility with [jose.4.j](https://bitbucket.org/b_c/jose4j/wiki/Home), [Nimbus-JOSE-JWT](https://bitbucket.org/nimbusds/nimbus-jose-jwt/wiki/Home), [json-jwt](https://github.com/nov/json-jwt) and
-[jose-jwt](https://github.com/dvsekhvalnov/jose-jwt) libraries.
+[jose-jwt](https://github.com/ashishaffinion/jose-jwt) libraries.
 
 
 ## Status
